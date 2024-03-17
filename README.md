@@ -2,7 +2,7 @@
 - 👀 I’m interested in environmental data
 - 🌱 I’m currently learning statistics
 - 💞️ I’m looking to collaborate on statistical research
-- 📫 How to reach me : shoot me an email at arnab.hazra@kaust.edu.sa
+- 📫 How to reach me : shoot me an email at ahazra@iitk.ac.in
 
 <!---
 arnabstatswithR/arnabstatswithR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
